@@ -41,14 +41,15 @@ Computing exact ground truth...
 
 **Mathematically Optimal Configuration** (maximum DEA efficiency score):
 
-$==================================================$
-$RESEARCH RESULT: MATHEMATICALLY OPTIMAL CONFIGURATION$
-$==================================================$
-$nprobe : 4$
-$Recall@10 : 99.88%$
-$Throughput : 5,841.7 queries/second$
-$DEA Efficiency Score: 3.7620 (maximum)$
-$==================================================$
+==================================================
+RESEARCH RESULT: MATHEMATICALLY OPTIMAL CONFIGURATION
+==================================================
+nprobe             : 4
+Recall@10          : 99.88%
+Throughput         : 5,841.7 queries/second
+DEA Efficiency Score: 3.7620 (maximum)
+==================================================
+
 
 
 ![Efficient Frontier Plot](plot.png)
